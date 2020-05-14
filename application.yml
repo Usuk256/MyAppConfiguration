@@ -1,0 +1,6 @@
+gateway:
+	ip: 59.29.224.123
+
+token:
+	expiration_time: 86400000 # 1days (milliseconds)
+	secret: test_secret
